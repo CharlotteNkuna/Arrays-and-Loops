@@ -4,6 +4,7 @@ let dnw =0;  //Did not write
 let distinction =80;
 let exemption =70;
 
+
 if(am>=dnw){
     if(am>=distinction)
     console.log("SUMMA CUM LAUDE");
