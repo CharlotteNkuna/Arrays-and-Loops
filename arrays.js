@@ -5,7 +5,7 @@ console.log(" Litersal array: " + courses);
 
 //only the selected string number
 let numbers = ["Ten", "Twenty", "Thirty", "Fourty"]; 
-console.log(numbers[3]);
+console.log(numbers[3]); //we are calling third number only
 
 
 
