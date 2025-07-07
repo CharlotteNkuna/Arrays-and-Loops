@@ -3,11 +3,11 @@
 //How to Access Elements in a JavaScript 2D Array
 
 let ScoreResults = [
-    ['Charlotte Nkuna', 100, 100, 'A'],
+    ['Charlotte Nkuna', 100, 100, 96, 'A'],
     ['Xolelwa Cekiso', 20, 10, 6, 'F'],
-    ['Dakalo Kulati', 0, 100, 50, 'B'],
-    ['Sibongile Rathokwane', 58, 43, 'A'],
-    ['Bongumusa Brutus', 0, 0, 'TF'],
+    ['Dakalo Kulati', 0, 70, 50, 'B'],
+    ['Sibongile Rathokwane', 58, 43, 50, 'A'],
+    ['Bongumusa Brutus', 0, 0, 0, 'TF'],
 ];
 console.table(ScoreResults);
 
