@@ -66,12 +66,12 @@ console.log(" Keyword of 5 grads: " + grads);
 //skipping the programming numbrs while have an arry limit
 let gra = new Array(10);                                         
 
-gra [0] = "Gitinit";
-gra [3] = "Sticks";
-gra [4] = "Skinnies";
-gra [6] = "mbali";
-gra [7] = "Broom";
-gra [9] = "siyacela";
+gra [0] = "Charlotte";
+gra [3] = "Nkuna";
+gra [4] = "Sibongile";
+gra [6] = "Anna";
+gra [7] = "BrXolelwa";
+gra [9] = "Cekiso";
 
 console.log(" Keyword of graduates: " + gra);
 
