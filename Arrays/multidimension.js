@@ -1,4 +1,9 @@
-//3d arrays
+//1D arrays
+let char = ["charlotte", "nkuna", "years" , "nku"];
+console.table(char );
+
+
+//2d arrays
 //used when you want to group a chink of data on one items
 //How to Access Elements in a JavaScript 2D Array
 
@@ -27,5 +32,37 @@ let MathScore = [
   MathScore.unshift(["Alice George", 28, 62, "A"]);
 
   console.table(MathScore);
+
+  
+  let student = [
+    ["Name", "Charlotte"],
+    ["Maths", 50],
+    ["English", 30],
+    ["Science", 90]
+  ];
+  
+  console.log(student); 
+
+
+//3D arrays
+//can be used for designing buildings, games
+let grads = [
+    [
+    ["Name", "Charlotte"],
+    ["Maths", 50],
+    ["English", 30],
+    ["Science", 90]
+    ],
+
+    [
+        ["Name", "Malwandla"],
+        ["Maths", 90],
+        ["English", 70],
+        ["Science", 90]
+    ]
+  ];
+  
+  console.log(grads); 
+
 
   
