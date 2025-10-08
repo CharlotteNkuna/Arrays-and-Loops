@@ -1,3 +1,4 @@
+//method 1: it makes nesting to be not easy
 //1D arrays
 let char = ["charlotte", "nkuna", "years" , "nku"];
 console.table(char );
@@ -65,4 +66,24 @@ let grads = [
   console.log(grads); 
 
 
+  //Method 2
+  //2D arrays
+
+//2D arrays
+let learners = [
+  {
+    firstname: "Charlotte",
+    surname: "Nkuna",
+    stipend: 6000
+  },
+  {
+    firstname: "David",
+    surname: "Mokoena",
+    stipend: 5500
+  }
+];
+
+console.log(delete student.stipend) //call the delete method or statement. it will say true if deleated
+console.log(student); //it will print it with{ } because its an object
+console.log(student.firstname, student.surname) //key method:abstracting to fetch whatever its in the object it print
   
